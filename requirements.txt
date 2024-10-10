@@ -4,4 +4,3 @@ screed
 scipy
 pandas
 mmh3
-time
